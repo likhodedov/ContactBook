@@ -1,0 +1,135 @@
+{
+  "groups_list": ["family","friends","ghosts","member","boss","school","college","army","bro","girls"],
+  "employees": {
+    "employee": [
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/tom_cruise",
+        "firstName": "Tom",
+        "lastName": "Cruise",
+        "phoneNumber": "89991114422",
+        "address": "2977 Cedarstone Drive",
+        "groups" : ["family","friends","member","boss","school","college"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/maria_sharapova",
+        "firstName": "Maria",
+        "lastName": "Sharapova",
+        "phoneNumber": "89991114422",
+        "address": "2562 Preston Street",
+        "groups" : ["ghosts","friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/james_bond",
+        "firstName": "James",
+        "lastName": "Bond",
+        "phoneNumber": "89991114422",
+        "address": "1170 Conifer Drive",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/jacky_chan",
+        "firstName": "Jacky",
+        "lastName": "Chan",
+        "phoneNumber": "89991114422",
+        "address": "667 Maryland Avenue",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/bob_marley",
+        "firstName": "Bob",
+        "lastName": "Marley",
+        "phoneNumber": "89991114422",
+        "address": "3024 Godfrey Street",
+        "groups" : ["ghosts","college"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/jack_nicholson",
+        "firstName": "Jack",
+        "lastName": "Nicholson",
+        "phoneNumber": "89991114422",
+        "address": "1888 Wright Court",
+        "groups" : ["friends","school"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/marlon_brando",
+        "firstName": "Marlon",
+        "lastName": "Brando",
+        "phoneNumber": "89991114422",
+        "address": "656 Pallet Street",
+        "groups" : []
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/robert_de_niro",
+        "firstName": "Robert",
+        "lastName": "De Niro",
+        "phoneNumber": "89991114422",
+        "address": "3650 Rosewood Lane",
+        "groups" : ["member"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/al_pacino",
+        "firstName": "Al",
+        "lastName": "Pacino",
+        "phoneNumber": "89991114422",
+        "address": "3786 Elm Drive",
+        "groups" : ["boss"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/daniel_day_lewis",
+        "firstName": "Daniel",
+        "lastName": "Day-Lewis",
+        "phoneNumber": "89991114422",
+        "address": "819 Trainer Avenue",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "",
+        "firstName": null,
+        "lastName": "",
+        "phoneNumber": "89991114422",
+        "address": "4916 Murphy Court",
+        "groups" : ["college","army"]
+      },
+      {
+        "image_uri" : "",
+        "firstName": "Jim",
+        "lastName": "Patrick",
+        "phoneNumber": "89991114422",
+        "address": "4403 Terra Street",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/dustin_hoffman",
+        "firstName": "Dustin",
+        "lastName": "Hoffman",
+        "phoneNumber": "",
+        "address": "",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/tom_hanks",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "phoneNumber": "",
+        "address": "",
+        "groups" : ["friends"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/anthony_hopkins",
+        "firstName": "Anthony",
+        "lastName": "Hopkins",
+        "phoneNumber": "",
+        "address": "",
+        "groups" : ["college","army"]
+      },
+      {
+        "image_uri" : "android.resource://com.example.test_user_1.contactbook/drawable/michael_caine",
+        "firstName": "Michael",
+        "lastName": "Caine",
+        "phoneNumber": "",
+        "address": "",
+        "groups" : ["friends"]
+      }
+    ]
+  }
+}

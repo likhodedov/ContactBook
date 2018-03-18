@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="group_count_error">Нет контактов в этой группе</string>
+    <string name="phone_number">Телефон:</string>
+    <string name="groups">Группы:</string>
+    <string name="about_program">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="epic_phrase">Твоя лучшая телефонная книга</string>
+    <string name="exit_message">Вы точно хотите закрыть приложение?</string>
+    <string name="exit_message_apply">Да</string>
+    <string name="exit_message_cancel">Нет</string>
+    <string name="address">Адрес:</string>
+    <string name="App_name_title">Название приложения:</string>
+    <string name="app_description">Тестовое задание \"Телефонная книга\" для компании SOFTOMATE</string>
+    <string name="rights">Все права защищены</string>
+    <string name="no_contacts_message">Не удается получить список контактов</string>
+</resources>

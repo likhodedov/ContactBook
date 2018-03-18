@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="group_count_error">Oops, no contacts in this group</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="groups">Groups:</string>
+    <string name="about_program">About program</string>
+    <string name="exit">Exit</string>
+    <string name="epic_phrase">Your lovely PhoneBook</string>
+    <string name="exit_message">\"Are you sure you want to exit?\"</string>
+    <string name="exit_message_apply">Yes</string>
+    <string name="exit_message_cancel">No</string>
+    <string name="address">Address:</string>
+    <string name="App_name_title">App name:</string>
+    <string name="app_description">Contact book as a test work for SOFTOMATE company</string>
+    <string name="rights">All rights reserved</string>
+    <string name="no_contacts_message">Sorry, can\'t get contacts</string>
+
+</resources>
